@@ -1264,23 +1264,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\sky\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\TimeTableManagementSystem\\TimeTableManagementSystem\\TimeTableManagementSystem.csproj",
+      "projectUniqueName": "C:\\Users\\sky\\Desktop\\Yuvin\\testDBone\\TimeTableManagementSystem\\TimeTableManagementSystem.csproj",
       "projectName": "TimeTableManagementSystem",
-      "projectPath": "C:\\Users\\ASUS\\source\\repos\\TimeTableManagementSystem\\TimeTableManagementSystem\\TimeTableManagementSystem.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\source\\repos\\TimeTableManagementSystem\\TimeTableManagementSystem\\obj\\",
+      "projectPath": "C:\\Users\\sky\\Desktop\\Yuvin\\testDBone\\TimeTableManagementSystem\\TimeTableManagementSystem.csproj",
+      "packagesPath": "C:\\Users\\sky\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sky\\Desktop\\Yuvin\\testDBone\\TimeTableManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sky\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1335,7 +1331,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
