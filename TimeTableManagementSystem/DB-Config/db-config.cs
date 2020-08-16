@@ -25,7 +25,7 @@ namespace TimeTableManagementSystem.DB_Config
                 
                 
             }
-            dbFilePath = dbPath + "\\yourDb.db";
+            dbFilePath = dbPath + "\\yourDb.db"; //db file
             if (!System.IO.File.Exists(dbFilePath))
             {
                 SQLiteConnection.CreateFile(dbFilePath);
